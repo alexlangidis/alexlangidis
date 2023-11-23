@@ -3,14 +3,13 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
 
-- Portfolio website: [https://alexlangidis.github.io](https://alexlangidis.github.io/)
-
-- 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/alexlangidis/solutions](https://www.frontendmentor.io/profile/alexlangidis/solutions)
+- 👨‍💻 All of my projects are available at [https://alexlangidis.github.io](https://alexlangidis.github.io/)
 
 - 📫 How to reach me **alexlag.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/alex-langidis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alex-langidis" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
