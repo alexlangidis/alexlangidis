@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **Html, Css, Javascript**
 
+- Portfolio website: [https://alexlangidis.github.io](https://alexlangidis.github.io/)
+
 - 👨‍💻 All of my projects are available at [https://www.frontendmentor.io/profile/alexlangidis/solutions](https://www.frontendmentor.io/profile/alexlangidis/solutions)
 
 - 📫 How to reach me **alexlag.dev@gmail.com**
